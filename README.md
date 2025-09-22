@@ -1,6 +1,6 @@
 # Rythu Mitra Platform 🌱
 
-Rythu Mitra (రైతు మిత్ర) – "Farmer’s Friend" – is a digital companion for Telugu farmers.  
+Rythu Mithra (రైతు మిత్ర) – "Farmer’s Friend" – is a digital companion for Telugu farmers.  
 This platform helps farmers to:
 
 ✅ Sell crops directly in a marketplace  
